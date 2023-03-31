@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454494139425",
+    "project_id": "librarybox-5fd06",
+    "storage_bucket": "librarybox-5fd06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454494139425:android:ca6bc84955982cddf85f60",
+        "android_client_info": {
+          "package_name": "com.paulperez.librarybox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454494139425-mn6if6a97vd0sph2p7c9lr67aml95h7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM2wFUxKDZPijInYl3ts9COXZTYgOAR4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454494139425-mn6if6a97vd0sph2p7c9lr67aml95h7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
